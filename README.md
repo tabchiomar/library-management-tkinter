@@ -6,7 +6,11 @@ The library management application I created offers a user-friendly and efficien
 Please feel free to try all the functionnalities of the application and surely let me know if you have any tips for a better future applications!
 
 For instance, the uploaded database contains multiple users but for testing purposes please note the following logs: (Rank : username:password)
+
 Administrator : admin:admin
+
 Librarian : omar:omar
+
 Member : Adherent:123
+
 
