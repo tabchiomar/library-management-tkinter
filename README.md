@@ -11,9 +11,17 @@ Administrator : admin:admin \\
 Librarian : omar:omar  \\
 Member : Adherent:123 
 
-Login Interface
-
+Few screenshots of the application :
 ![image](https://github.com/tabchiomar/pfa-library/assets/135275313/0341de46-69bb-4213-adaa-400e1a2f3969)
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/2657b68e-7d21-4e17-821f-75b5a66bedb7)
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/1252029b-3d5d-4125-8a08-55a981c65be2)
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/d580acb2-23cf-4e44-b8e6-230525c5dee4)
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/3090914c-871b-402d-bd84-9ad5d3e471b8)
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/6c065097-b116-4cea-a3f7-37c64959d897)
+
+
+
+
                    
 
 
