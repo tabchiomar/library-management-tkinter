@@ -11,6 +11,12 @@ Administrator : admin:admin \\
 Librarian : omar:omar  \\
 Member : Adherent:123 
 
+I have developped many modules for this application, each one of them is specific for each kind of users (member, librarian or administrator)
+
+-> The member will have only access to books, meaning he will be able to look for books in the list of books available.
+-> The librarian has six different modules and his own main interface which will dynamically show different informations to help the employee do its work.
+-> The administrator is a librarian who has additionally the module to manage librarians and data analysis features for its library.
+
 Few screenshots of the application :
 ![image](https://github.com/tabchiomar/pfa-library/assets/135275313/0341de46-69bb-4213-adaa-400e1a2f3969)
 ![image](https://github.com/tabchiomar/pfa-library/assets/135275313/2657b68e-7d21-4e17-821f-75b5a66bedb7)
@@ -20,7 +26,9 @@ Few screenshots of the application :
 ![image](https://github.com/tabchiomar/pfa-library/assets/135275313/6c065097-b116-4cea-a3f7-37c64959d897)
 
 
+Acknowledgements
 
+@TomSchimansky for the awesome work on customTkinter, a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets.
 
                    
 
