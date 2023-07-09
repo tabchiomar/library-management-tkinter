@@ -7,8 +7,11 @@ Please feel free to try all the functionnalities of the application and surely l
 
 For instance, the uploaded database contains multiple users but for testing purposes please note the following logs: (Rank : username:password)
 
-Administrator : admin:admin 
-Librarian : omar:omar 
-Member : Adherent:123
+Administrator : admin:admin \\
+Librarian : omar:omar  \\
+Member : Adherent:123 
+
+
+![image](https://github.com/tabchiomar/pfa-library/assets/135275313/0341de46-69bb-4213-adaa-400e1a2f3969)
 
 
